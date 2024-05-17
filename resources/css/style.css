@@ -1,5 +1,5 @@
 *{
-   background-color: orange;
+   background-color: rgb(0, 145, 255);
    text-align: left;
 }
 
@@ -8,18 +8,26 @@ h1 {
  color: black;
  font-weight: 600;
  text-align: center;
+ padding: 20px;
+}
+
+h2 {
+   font-size: 1.3rem;
+   color: blue;
+   padding: 20px
 }
 
 nav button {
   background-color: black;
+  color: white;
   padding: 10px;
   font-size: 20px;
-  color: white
+
   
 } 
 
 button:hover {
-   background-color: red;
+   background-color: green;
    
 
 }
